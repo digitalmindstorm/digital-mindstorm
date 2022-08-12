@@ -4,9 +4,10 @@ import Video from '../../videos/video4.mp4'
 import { Button } from '../Button'
 import {HeroContainer , HeroBg , VideoBg} from './HeroElement'
 import './HeroSection.css'
+import img from '../../images/logo.png'
 
 function Hero( { topLine,lightText , lightTextDesc , headline , description ,
-    buttonLabel, img , alt , imgStart}) {
+    buttonLabel , alt , imgStart}) {
   return (
     <HeroContainer id="home"  >
         <HeroBg>
