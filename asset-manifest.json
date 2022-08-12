@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/digital-mindstorm/static/css/main.8533ca4b.css",
-    "main.js": "/digital-mindstorm/static/js/main.778442ab.js",
+    "main.js": "/digital-mindstorm/static/js/main.7be0d72f.js",
     "static/js/787.f1c5df52.chunk.js": "/digital-mindstorm/static/js/787.f1c5df52.chunk.js",
     "static/media/video4.mp4": "/digital-mindstorm/static/media/video4.06ea17eb35670e313056.mp4",
+    "static/media/services1.jpg": "/digital-mindstorm/static/media/services1.0a4893421f4eb80a395c.jpg",
     "static/media/adil.jpeg": "/digital-mindstorm/static/media/adil.efa2ea389598d63c06a2.jpeg",
+    "static/media/services.jpg": "/digital-mindstorm/static/media/services.2ea914259f43a7c3fcff.jpg",
     "static/media/logo.png": "/digital-mindstorm/static/media/logo.6cf9ad7ff7ead8ab0659.png",
     "static/media/logof.png": "/digital-mindstorm/static/media/logof.65daf31b76e8e192f4a3.png",
     "static/media/mail.png": "/digital-mindstorm/static/media/mail.263d2e7c662a71200894.png",
     "static/media/location1.png": "/digital-mindstorm/static/media/location1.ed562d945fa6b453fd3c.png",
     "static/media/call.png": "/digital-mindstorm/static/media/call.ee629d67f24bfeb3b5f3.png",
+    "static/media/pricing.PNG": "/digital-mindstorm/static/media/pricing.845356b73f46c94dfbc5.PNG",
     "index.html": "/digital-mindstorm/index.html",
     "main.8533ca4b.css.map": "/digital-mindstorm/static/css/main.8533ca4b.css.map",
-    "main.778442ab.js.map": "/digital-mindstorm/static/js/main.778442ab.js.map",
+    "main.7be0d72f.js.map": "/digital-mindstorm/static/js/main.7be0d72f.js.map",
     "787.f1c5df52.chunk.js.map": "/digital-mindstorm/static/js/787.f1c5df52.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8533ca4b.css",
-    "static/js/main.778442ab.js"
+    "static/js/main.7be0d72f.js"
   ]
 }
